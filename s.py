@@ -84,6 +84,7 @@ with open(output_file, "w", encoding="utf-8") as f:
     f.write(r"\item Man må ikke have gentagende personer som matches." "\n")
     f.write(r"\item Få dem til at skrive deres navn eller initialer og tage et billede med dem (hvis de vil)." "\n")
     f.write(r"\item Første person med en fuld plade får en Ølefant." "\n")
+    f.write(r"\Hvis man færdiggører sin plade (uanset placering), får man en Høker Bajer" "\n")
     f.write(r"\end{itemize}" "\n")
     f.write(r"}" "\n")
     f.write(r"\newpage" "\n\n")
